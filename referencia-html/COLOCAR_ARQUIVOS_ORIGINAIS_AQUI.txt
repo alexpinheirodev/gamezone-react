@@ -1,0 +1,6 @@
+COPIE PARA ESTA PASTA OS ARQUIVOS ORIGINAIS DA PARTE 1:
+
+1. index.html original do grupo
+2. usuario.html original do aluno
+
+Não altere esses arquivos. Eles devem servir como referência para a comparação antes/depois.

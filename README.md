@@ -2,7 +2,7 @@
 
 ## Autor
 
-Adriano Coutinho
+Alex Pinheiro
 
 ## Origem
 
